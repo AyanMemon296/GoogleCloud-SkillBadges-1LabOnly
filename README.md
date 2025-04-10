@@ -86,7 +86,6 @@ Whether you're prepping for a certification, competing for swags, or building a 
 
 - Give this repo a 🌟
 - Share with your learning groups
-- Contribute with PRs or suggestions!
 
 ---
 
