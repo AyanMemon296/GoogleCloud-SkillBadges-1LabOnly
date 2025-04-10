@@ -68,20 +68,19 @@ For some Skill Badges, a **Pre-Assessment** is available:
 
 ---
 
-## 🏅 Verified 1-Lab Skill Badges (With Video Solutions)
-
 | # | Skill Badge Name | Skill Badge Link | 🎥 Video Solution |
 |--:|------------------|------------------|-------------------|
-| 1 | **Get Started with Google Workspace Tools** | [Link](https://www.cloudskillsboost.google/course_templates/676) | [Watch](https://youtu.be/MXNF4k07aBg) |
-| 2 | **Deploy Kubernetes Applications on Google Cloud** | [Link](https://www.cloudskillsboost.google/course_templates/663) | [Solution 1](https://youtu.be/vdxWF7APISU) / [2](https://youtu.be/GmK9Ug8F0mY) / [3](https://youtu.be/F4h6EmSJkFM) |
-| 3 | **Set Up an App Dev Environment on Google Cloud** | [Link](https://www.cloudskillsboost.google/course_templates/637) | [Solution 1](https://youtu.be/FPjcgyqPEqg) / [2](https://youtu.be/bVuO5Sj6cXc) |
-| 4 | **Build LookML Objects in Looker** | [Link](https://www.cloudskillsboost.google/course_templates/639) | [Watch](https://youtu.be/xfgvPfS567o) |
-| 5 | **Perform Predictive Data Analysis in BigQuery** | [Link](https://www.cloudskillsboost.google/course_templates/656) | [Watch](https://youtu.be/drrdaN5mroI) |
-| 6 | **Build Infrastructure with Terraform on Google Cloud** | [Link](https://www.cloudskillsboost.google/course_templates/636) | [Watch](https://youtu.be/6fidKO9GO7w) |
-| 7 | **Use Functions, Formulas, and Charts in Google Sheets** | [Link](https://www.cloudskillsboost.google/course_templates/776) | [Watch](https://youtu.be/mAcGXkI3WSE) |
-| 8 | **Monitoring in Google Cloud** | [Link](https://www.cloudskillsboost.google/course_templates/747) | [Watch](https://youtu.be/cZJn_C_Ry4w) |
-| 9 | **Explore Generative AI with Gemini API in Vertex AI** | [Link](https://www.cloudskillsboost.google/course_templates/959) | [Old Solution](https://youtu.be/Sz_ptHNR050) |
-| 10 | **Discover and Protect Sensitive Data Across Your Ecosystem** | [Link](https://www.cloudskillsboost.google/course_templates/1177) | [Watch](https://youtu.be/zssjtgjUPpw) <br>_Bonus: Hidden gem not in the main catalog!_ |
+| 1 | **Get Started with Google Workspace Tools** | <a href="https://www.cloudskillsboost.google/course_templates/676" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/MXNF4k07aBg" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 2 | **Deploy Kubernetes Applications on Google Cloud** | <a href="https://www.cloudskillsboost.google/course_templates/663" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/vdxWF7APISU" target="_blank" rel="noopener noreferrer">Solution 1</a> / <a href="https://youtu.be/GmK9Ug8F0mY" target="_blank" rel="noopener noreferrer">2</a> / <a href="https://youtu.be/F4h6EmSJkFM" target="_blank" rel="noopener noreferrer">3</a> |
+| 3 | **Set Up an App Dev Environment on Google Cloud** | <a href="https://www.cloudskillsboost.google/course_templates/637" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/FPjcgyqPEqg" target="_blank" rel="noopener noreferrer">Solution 1</a> / <a href="https://youtu.be/bVuO5Sj6cXc" target="_blank" rel="noopener noreferrer">2</a> |
+| 4 | **Build LookML Objects in Looker** | <a href="https://www.cloudskillsboost.google/course_templates/639" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/xfgvPfS567o" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 5 | **Perform Predictive Data Analysis in BigQuery** | <a href="https://www.cloudskillsboost.google/course_templates/656" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/drrdaN5mroI" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 6 | **Build Infrastructure with Terraform on Google Cloud** | <a href="https://www.cloudskillsboost.google/course_templates/636" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/6fidKO9GO7w" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 7 | **Use Functions, Formulas, and Charts in Google Sheets** | <a href="https://www.cloudskillsboost.google/course_templates/776" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/mAcGXkI3WSE" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 8 | **Monitoring in Google Cloud** | <a href="https://www.cloudskillsboost.google/course_templates/747" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/cZJn_C_Ry4w" target="_blank" rel="noopener noreferrer">Watch</a> |
+| 9 | **Explore Generative AI with Gemini API in Vertex AI** | <a href="https://www.cloudskillsboost.google/course_templates/959" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/Sz_ptHNR050" target="_blank" rel="noopener noreferrer">Old Solution</a> |
+| 10 | **Discover and Protect Sensitive Data Across Your Ecosystem** | <a href="https://www.cloudskillsboost.google/course_templates/1177" target="_blank" rel="noopener noreferrer">Link</a> | <a href="https://youtu.be/zssjtgjUPpw" target="_blank" rel="noopener noreferrer">Watch</a> <br><em>Bonus: Hidden gem not in the main catalog!</em> |
+
 
 ---
 
