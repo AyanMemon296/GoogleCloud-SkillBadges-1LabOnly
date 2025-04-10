@@ -20,7 +20,17 @@ It’s specially curated for:
 
 ---
 
+## 📂 Explore Categories
+
+[![1-Lab Badges](https://img.shields.io/badge/01-1--Lab%20Badges-blue)](1-Lab-Skill-Badges.md)
+[![Free/No-Cost](https://img.shields.io/badge/02-Free%20or%20No--Cost%20Badges-brightgreen)](02-Free-or-NoCost-Badges.md)
+[![Least Labs](https://img.shields.io/badge/03-Least%20Number%20of%20Labs-orange)](03-Least-Number-of-Labs.md)
+[![Low-Credit](https://img.shields.io/badge/04-Low--Credit%20Badges-red)](04-Low-Credit-Badges.md)
+
+---
+
 ## 🧭 What You'll Find Here
+
 
 Organized and expanding markdown files with curated badge lists:
 
