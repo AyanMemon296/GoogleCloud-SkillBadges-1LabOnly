@@ -90,9 +90,9 @@ For some Skill Badges, a **Pre-Assessment** is available:
 
 I’ll be adding:
 
-- 🧪 Skill badges with the **least number of labs**  
-- 💸 Free / low-credit badges  
-- 🎥 Video solutions for all badges  
+- 🧪 Skill badges with the least number of labs  
+- 💸 Free or no-cost skill badges  
+- 🎯 Low-credit skill badges   
 
 ---
 
